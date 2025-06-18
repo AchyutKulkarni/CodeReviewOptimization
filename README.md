@@ -40,7 +40,3 @@ This project investigates whether a Git commit message indicates a **refactoring
 - **Vectorization**: TF-IDF transformation
 - **Clustering**: KMeans with k=2 (refactor vs. non-refactor)
 - **Outcome**: Generated interpretable clusters, but lacked label alignment for accuracy scoring
-
----
-
-## 📂 Repo Structure
